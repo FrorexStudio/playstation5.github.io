@@ -1,0 +1,21 @@
+:root {
+    --color-accent: #4163F5;
+    --color-accent-dark: #3c5ae0;
+    --color-accent-dark-shadow: #558abb44;
+    --color-bg-main: #010101;
+    --color-bg-submain: #080808;
+    --color-p-info: #979797;
+    --color-a-main: #b7b7b7;
+    --color-accent-grey: #393939;
+    --color-white: black;
+    --color-white-original: white;
+    --color-black: white;
+    --color-light-white: #050505;
+    --color-light-white-treugol: #0e0d0d;
+    --color-light-white-2: #3f3f3f;
+    --color-light-white-2-original: #3f3f3f;
+    --color-light-white-3: #636363;
+    --color-light-white-3-original: #636363;
+    --color-light-white-4: #1f1f1f;
+    --color-dark-grey: #cacaca;
+}
